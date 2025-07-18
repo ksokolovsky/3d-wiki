@@ -1,47 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wikipedia about 3D Technologies</title>
-    <link>https://3d-wiki.com/</link>
-    <description>Recent content on Wikipedia about 3D Technologies</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 18:28:36 +0100</lastBuildDate><atom:link href="https://3d-wiki.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Accuracy in 3D</title>
-      <link>https://3d-wiki.com/docs/3d-scanning/accuracy-in-3d/</link>
-      <pubDate>Wed, 15 Mar 2023 18:28:36 +0100</pubDate>
-      
-      <guid>https://3d-wiki.com/docs/3d-scanning/accuracy-in-3d/</guid>
-      <description>Some heading#some text</description>
-    </item>
-    
-    <item>
-      <title>Best 3D Printers under $5000</title>
-      <link>https://3d-wiki.com/docs/3d-printing/best-3d-printers-under-5000/</link>
-      <pubDate>Wed, 15 Mar 2023 18:28:36 +0100</pubDate>
-      
-      <guid>https://3d-wiki.com/docs/3d-printing/best-3d-printers-under-5000/</guid>
-      <description>Best 3D Printers#asas</description>
-    </item>
-    
-    <item>
-      <title>What is sturctured light 3d technology OUT</title>
-      <link>https://3d-wiki.com/docs/3d-scanning/3dscan-docs-post/</link>
-      <pubDate>Wed, 15 Mar 2023 18:28:36 +0100</pubDate>
-      
-      <guid>https://3d-wiki.com/docs/3d-scanning/3dscan-docs-post/</guid>
-      <description>What is Structured Light 3D Scanning Technology?#Structured light 3D scanning technology is a popular method for capturing high-resolution 3D models of physical objects. It is a non-contact method that involves projecting a pattern of light onto an object and capturing the deformation of the pattern as it reflects back onto a camera. This process creates a depth map of the object&amp;rsquo;s surface which can be used to reconstruct a digital 3D model.</description>
-    </item>
-    
-    <item>
-      <title>What is 3D filament</title>
-      <link>https://3d-wiki.com/docs/3d-printing/what-is-3d-filament/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://3d-wiki.com/docs/3d-printing/what-is-3d-filament/</guid>
-      <description>Now u will know about filaments all#tata</description>
-    </item>
-    
-  </channel>
-</rss>
